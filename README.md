@@ -1,16 +1,13 @@
-# play_sounds
+# Audio Player App
 
-A new Flutter project.
+## Description
+An intuitive Flutter-based audio player app that allows users to play, stop, and select audio files from their device. The app supports various audio formats, including MP3, WAV, FLAC, and M4A. Built with Riverpod for state management, it ensures efficient handling of player states, file selection, and playback.
 
-## Getting Started
+This app features a sleek UI with a gradient background, responsive design, and simple controls for playback. Users can select audio files through a file picker, and the app displays the current track information.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Key Features:
+- Play and stop audio files.
+- Choose audio files from the device using a file picker.
+- Supports multiple audio formats (MP3, WAV, FLAC, M4A).
+- Real-time audio progress tracking with a slider.
+- Permission handling for file access.
