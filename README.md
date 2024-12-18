@@ -1,13 +1,24 @@
 # Audio Player App
 
-## Description
-An intuitive Flutter-based audio player app that allows users to play, stop, and select audio files from their device. The app supports various audio formats, including MP3, WAV, FLAC, and M4A. Built with Riverpod for state management, it ensures efficient handling of player states, file selection, and playback.
+Welcome to the **Audio Player App**—your go-to solution for seamless music and audio playback. With an intuitive and stylish interface, this app lets you browse, play, and control your favorite audio tracks. Whether you’re listening to local files or streaming your favorite music, the app provides a fluid and enjoyable experience.
 
-This app features a sleek UI with a gradient background, responsive design, and simple controls for playback. Users can select audio files through a file picker, and the app displays the current track information.
+---
 
-### Key Features:
-- Play and stop audio files.
-- Choose audio files from the device using a file picker.
-- Supports multiple audio formats (MP3, WAV, FLAC, M4A).
-- Real-time audio progress tracking with a slider.
-- Permission handling for file access.
+## 🎶 **Key Features**
+
+- **Play Your Favorite Audio**: Choose from local audio files and start listening immediately.
+- **Smooth Playback Controls**: Play, pause, stop, and seek your audio with intuitive controls.
+- **Customizable Audio Experience**: Adjust the track position with a sleek progress bar and enjoy a smooth experience.
+- **File Picker**: Pick any supported audio file (MP3, WAV, FLAC, M4A) from your device to play.
+- **State Management**: Manage playback state (playing, paused, stopped) and get real-time updates on the current position and duration of the audio.
+- **Elegant UI**: A visually appealing gradient background and easy-to-navigate layout to enhance your listening experience.
+- **Device Permissions**: Request storage permission to pick audio files from your device.
+- **Playlists & Track Navigation**: Seamlessly switch between tracks using intuitive controls.
+
+---
+
+## 🖼️ **Screenshots**
+
+### Home Screen
+![Home Screen](assets/screenshots/home.png)
+
